@@ -1,1 +1,3 @@
 THIS is a.txt
+
+NEW LINE ADDED IN a.txt in branch 1
